@@ -107,7 +107,7 @@
 										<div class="info-box">
 										<div class="info-box-content">
 											
-											<p class="info-box-subtitle"><i class="fa fa-phone"></i> (+91) 72760 10600</p>
+											<p class="info-box-subtitle"><i class="fa fa-phone"></i> (+91) 98225 58876</p>
 										</div>
 									
 									</div>
@@ -115,7 +115,7 @@
 								<li>
 									<div class="info-box">
 										<div class="info-box-content">
-											<p class="info-box-subtitle"><i class="fa fa-envelope"></i> info@vbdigitech.com</p>
+											<p class="info-box-subtitle"><i class="fa fa-envelope"></i> amol@vbdigitech.com</p>
 										</div>
 									</div>
 								</li>

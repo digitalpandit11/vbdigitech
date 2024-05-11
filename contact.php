@@ -51,7 +51,7 @@
                   </span>
                   <div class="ts-service-box-content">
                      <h4>Email Us</h4>
-                     <p>info@vbdigitech.com</p>
+                     <p>amol@vbdigitech.com</p>
                  </div>
                </div>
             </div><!-- Col 2 end -->
@@ -63,7 +63,7 @@
                   </span>
                   <div class="ts-service-box-content">
                      <h4>Call Us</h4>
-                     <p>(+91) 72760 10600</p>
+                     <p>(+91) 98225 58876</p>
                  </div>
                </div>
             </div><!-- Col 3 end -->

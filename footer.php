@@ -22,10 +22,10 @@
               <span class="text-right">Swargate,Pune(MH),India. </span>
               <br> 
               Call Us:
-               <span class="text-right">(+91) 72760 10600&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;</span>
+               <span class="text-right">(+91) 98225 58876&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;</span>
               <br> 
                Email Us:
-               <span class="text-right">info@vbdigitech.com &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;</span>
+               <span class="text-right">amol@vbdigitech.com &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;</span>
             </div>
           </div><!-- Col end -->
 
