@@ -60,7 +60,7 @@
 					<div class="col-lg-8 col-md-8 col-sm-6 col-xs-12">
 						<ul class="top-info">
 							<li><i class="fa fa-map-marker">&nbsp;</i>
-								<p class="info-text">Swargate, Pune (MH), India</p>
+								<p class="info-text">Narhe, Pune (MH), India</p>
 							</li>
 						</ul>
 					</div>

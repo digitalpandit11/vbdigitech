@@ -19,7 +19,7 @@
             <h3 class="widget-title">Contact Us</h3>
             <div class="working-hours">
               Visit Our Office: 
-              <span class="text-right">Swargate,Pune(MH),India. </span>
+              <span class="text-right">Narhe,Pune(MH),India. </span>
               <br> 
               Call Us:
                <span class="text-right">(+91) 98225 58876&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;</span>
@@ -33,7 +33,7 @@
 					   <!--<div class="col-md-4 col-sm-12 footer-widget">
 							<h3 class="widget-title">Contact Us</h3>
 						    <div class="working-hours">
-								Visit Our Office:<span class="text-right">Swargate,Pune(MH),India. </span><br>
+								Visit Our Office:<span class="text-right">Narhe,Pune(MH),India. </span><br>
 								 Call Us:<span class="text-right">      (+91) 72760 10600 </span><br>
 							      Email Us: <span class="text-right">   info@vbdigitech.com</span><br>
 						   </div>
@@ -113,7 +113,7 @@
 
 	</div>
 
-<script type="text/javascript">!function(t,e){t.artibotApi={l:[],t:[],on:function(){this.l.push(arguments)},trigger:function(){this.t.push(arguments)}};var a=!1,i=e.createElement("script");i.async=!0,i.type="text/javascript",i.src="https://app.artibot.ai/loader.js",e.getElementsByTagName("head").item(0).appendChild(i),i.onreadystatechange=i.onload=function(){if(!(a||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState)){new window.ArtiBot({i:"d5bcc1c9-643f-4e43-9416-f776e2cb895a"});a=!0}}}(window,document);</script>
+<!-- <script type="text/javascript">!function(t,e){t.artibotApi={l:[],t:[],on:function(){this.l.push(arguments)},trigger:function(){this.t.push(arguments)}};var a=!1,i=e.createElement("script");i.async=!0,i.type="text/javascript",i.src="https://app.artibot.ai/loader.js",e.getElementsByTagName("head").item(0).appendChild(i),i.onreadystatechange=i.onload=function(){if(!(a||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState)){new window.ArtiBot({i:"d5bcc1c9-643f-4e43-9416-f776e2cb895a"});a=!0}}}(window,document);</script> -->
 
 </body>
 
