@@ -39,7 +39,8 @@
                   </span>
                   <div class="ts-service-box-content">
                      <h4>Visit Our Office</h4>
-                     <p>Narhe, Pune (MH), India</p>
+                     <p>Pune (India)</p>
+                     <p>Kenya</p>
                  </div>
                </div>
             </div><!-- Col 1 end -->
@@ -52,6 +53,7 @@
                   <div class="ts-service-box-content">
                      <h4>Email Us</h4>
                      <p>amol@vbdigitech.com</p>
+                     <p>vbdigitech.kenya@gmail.com</p>
                  </div>
                </div>
             </div><!-- Col 2 end -->
@@ -63,7 +65,8 @@
                   </span>
                   <div class="ts-service-box-content">
                      <h4>Call Us</h4>
-                     <p>(+91) 98225 58876</p>
+                     <p>INDIA : (+91) 98225 58876</p>
+                     <p>KENYA : (+254) 78807 0099</p>
                  </div>
                </div>
             </div><!-- Col 3 end -->
