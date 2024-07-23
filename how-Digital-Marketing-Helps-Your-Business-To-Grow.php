@@ -123,6 +123,11 @@
                           <p class="jt">CTA (Call-To-Action) is one of the most successful ways to do so. CTA drives your visitors to do what you want them to do: Sign up, subscribe, enquire, buy or download etc. It’s a button with proper action keyword that entice the visitors to do what they asked for.</p>
                           <p class="jt">VB Deglitch is a Professional Website Development And Digital Marketing Company in Pune, India. We offer a huge variety of Web Development Services and Digital Marketing Services such as Search Engine Optimization (SEO), Social Media Marketing (SMM), Youtube Marketing, Google Paid Ads, Local Seo, and Email Marketing, etc</p>
                           <p class="jt">Our team of experts helping businesses to establish their online presence. We are dedicated to help our clients in harnessing the wide rich of internet by designing and developing web solutions that will help them.</p>
+
+                          <h2 style=" font-size: 18px; font-weight: bold;">Tools Recommendation</h2>
+
+                          
+                          <p class="jt">We recommend using <a href="https://www.seocopilot.com/" target="_blank" >SEO Copilot</a> to speedup your indexing process. One may also explore tool like semrush , ahref & ubersuggest for advance analytics.</p>
         
                      </div>
 
