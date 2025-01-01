@@ -96,11 +96,11 @@
 					<div class="logo-area clearfix">
 						<div class="logo col-xs-12 col-md-3" style="">
 							<a href="index.php">
-								<img src="images/new_logo.png" alt="" style="width: 150px;">
+								<img src="images/new_logo.png" alt="" style="width: 200px;">
 							</a>
 						</div><!-- logo end -->
 
-						<div class="col-xs-12 col-md-9 header-right" style="margin-top: 17px;">
+						<div class="col-xs-12 col-md-9 header-right" style="vertical-align:middle;">
 							<ul class="top-info-box">
 								<li>
 									
@@ -134,9 +134,9 @@
 									</a>
 								</li>
 
-								<li class="header-get-a-quote">
+								<!-- <li class="header-get-a-quote">
 									<a class="btn btn-primary" href="contact.php">Get A Quote</a>
-								</li>
+								</li> -->
 							</ul><!-- Ul end -->
 						</div><!-- header right end -->
 					</div><!-- logo area end -->
